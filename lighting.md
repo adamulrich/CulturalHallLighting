@@ -12,9 +12,11 @@ Each strand is wound onto a 3d printed spool. 12 spools are mounted on a 90 degr
 
 The spools have arcs cut out to allow heat to dissipate, as they can get somewhat hot when the lights are wrapped tightly together on the portion of the strand that it not needed.
 
- ## parts
+Any variations in pictures from descriptions are due to learnings and modifications. As an example, some pictures show a 100W power supply and plastic tees. These parts were upgraded to 250W and metal tees. Regardless of the specific item, the general principles are the same.
 
-### electrical
+## Parts
+
+### Electrical parts
 
 - [12v LED power supply (can supply 20.8 amps)](https://www.amazon.com/gp/product/B07Y61R8SR/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1)
 - [48 12v 5.5 X 2.1 mm male pigtails](https://www.amazon.com/gp/product/B07BRKGZYN/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&th=1)
@@ -22,9 +24,9 @@ The spools have arcs cut out to allow heat to dissipate, as they can get somewha
 - [1x 6 header power distribution block](https://www.amazon.com/gp/product/B09D3BV22M/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
 - 50ft 20 amp standard power cord
 - 48 12v 100ft fairy light strands with 5.5mm female bullet connectors.
-- 4 pigtail retention blocks
+- [4 pigtail retention blocks](cord_clamp3.3mf)
 
-### platform
+### Platform parts
 
 - 2x plywood 12" x 12"
 - 16x 12" Cable Ties
@@ -35,7 +37,7 @@ The spools have arcs cut out to allow heat to dissipate, as they can get somewha
 - 48 spools
 - 60 spacers
 
-### rigging
+### Rigging parts
 
 - 4x Eye Bolts with lock washers and nuts
 - [Vinyl coated wire](https://www.amazon.com/gp/product/B08FY86482/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&th=1)
@@ -53,7 +55,15 @@ The male pigtails are wired into the distribution blocks. We covered them in whi
 
 ![Electrical Wiring](IMG_20231219_084156.jpg)
 
-## Platform
+We place 2 screws with a simple hair tie to keep the pigtails need when not extended to connect to the spools.
+
+![Electrical Wiring](IMG_20211211_223632.jpg)
+
+### LED Fairy Light Strands
+
+One of the largest challenges is the fairy light aquisition. They can be found on Amazon with power bricks, remotes and controllers for $25-$30 each. that makes this project very expensive, and you have parts that you don't need. I [found a supplier on Alibaba](https://www.alibaba.com/product-detail/30m-50m-100m-200m-LED-String_62558179881.html) that would supply exactly what I needed, 100ft 12v fairy lights with 5.5x2.1 mm male pigtails for less than $5 each. This put the cost with shipping around $280.
+
+## Platform Assembly
 
 ### Bottom Platform
 
@@ -112,4 +122,6 @@ Measure out the room so that you know how far apart along the walls you want to 
 
 For areas that don't have anchor points, we use nylon wire suspended between walls with anchor points (like anchoring to either side of the stage or the accordian doors), then use clothes pins or spool clips to clip the light strand to the suspended wire.
 
-Once you have extended and anchored the correct length, use the notches on the sides of the spools to anchor the wire on the spool so that it won't spin. Connect power to the spool. You may need to unclip the connector from the side of the spool for it to reach.
+Once you have extended and anchored the correct length, use the notches on the sides of the spools to anchor the wire on the spool so that it won't spin. Connect power to the spool. You may need to unclip the connector from the side of the spool for it to reach. Be sure to not over tension the wire. You want some slack.
+
+One issue that we ran into was accidental jarring of the strands after installation, especially when the lights were turned off and they did not see them. The tension pulling the strand too tight, and causing it to short out at far end when you wrap it around a screw. Loosening the strand to remove the tension fixed the issue. In future installations, we would probably use a [nylon spacer](https://www.amazon.com/Assortment-Electrical-Spacers-Plastic-Receptacle/dp/B0C7CLB513) around the screw to prevent this.

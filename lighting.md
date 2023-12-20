@@ -88,9 +88,9 @@ Spools have grooves on the side to allow heat to dissipate. If you have a 100ft 
 
 Light strands come on flat carboard and need transferred to the spool. This is done by inserting the connecter through the oval hole and clipping it in place with the glued clip. We built a simple jig, and used a drill with a [brush attachment](https://www.amazon.com/Attachment-Scrubber-Cleaning-Bathroom-Laundry/dp/B07MKJQCXP?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A1QJ2W4S6R7LU2) to spin the spool. The brush provides enough tension to spin, but if the light strand gets bound, it will not pull hard enough to damage the wire.
 
-<video src='video_20211216_235544.mp4' width=180/>
+[Transfer to Spool video]
 
-[Transfer to Spool video](video_20211216_235544.mp4)
+https://github.com/adamulrich/CulturalHallLighting/blob/main/video_20211216_235544.mp4
 
 ![Platform Sandwich](IMG_20231219_110957.jpg)
 

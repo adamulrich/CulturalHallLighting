@@ -90,7 +90,7 @@ Light strands come on flat carboard and need transferred to the spool. This is d
 
 [Transfer to Spool video]
 
-https://github.com/adamulrich/CulturalHallLighting/blob/main/video_20211216_235544.mp4
+https://raw.githubusercontent.com/adamulrich/CulturalHallLighting/main/video_20211216_235544.mp4
 
 ![Platform Sandwich](IMG_20231219_110957.jpg)
 

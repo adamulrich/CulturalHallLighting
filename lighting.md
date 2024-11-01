@@ -10,7 +10,7 @@ This system contains 48 12v 100 foot 'fairy light' LED strands. Each strand has 
 
 Each strand is wound onto a 3d printed spool. 12 spools are mounted on a 90 degree arc of flexible piping (we used pex). 4 arcs are joined together to with pipe tees and clamped together with hose clamps to form a circle, and mounted to a center plywood platform with . The platform has 48 pigtails, 4 banks of 12, to be connected to the spool once the right amount of lighting is stretched out.
 
-The spools have arcs cut out to allow heat to dissipate, as they can get somewhat hot when the lights are wrapped tightly together on the portion of the strand that it not needed.
+The spools have arcs cut out to allow heat to dissipate, as they can get somewhat hot when the lights are wrapped tightly together on the portion of the strand that is not needed.
 
 Any variations in pictures from descriptions are due to learnings and modifications. As an example, some pictures show a 100W power supply and plastic tees. These parts were upgraded to 250W and metal tees. Regardless of the specific item, the general principles are the same.
 
@@ -55,7 +55,7 @@ The male pigtails are wired into the distribution blocks. We covered them in whi
 
 ![Electrical Wiring](IMG_20231219_084156.jpg)
 
-We place 2 screws with a simple hair tie to keep the pigtails need when not extended to connect to the spools.
+We place 2 screws with a simple hair tie to keep the pigtails neat when not extended to connect to the spools.
 
 ![Electrical Wiring](IMG_20211211_223632.jpg)
 

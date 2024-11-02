@@ -102,7 +102,7 @@ The 4 arcs are assembled together using 1/2" barb tees and hose clamps. Use the 
 
 We drilled through the platform sandwich and installed the 4 eye bolts. We then used the nylon coated wire with wire crimps, heavy duty caribeeners, and chain quick links to build a simple suspension rig.
 
-![Rigging](IMG_20231214_212618.jpg)
+![Rigging](IMG_20211212_173622.jpg)
 
 ## Installation
 

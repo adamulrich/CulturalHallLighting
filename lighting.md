@@ -12,7 +12,9 @@ Each strand is wound onto a 3d printed spool. 12 spools are mounted on a 90 degr
 
 The spools have arcs cut out to allow heat to dissipate, as they can get somewhat hot when the lights are wrapped tightly together on the portion of the strand that is not needed.
 
-Any variations in pictures from descriptions are due to learnings and modifications. As an example, some pictures show a 100W power supply and plastic tees. These parts were upgraded to 250W and metal tees. Regardless of the specific item, the general principles are the same.
+Any variations in pictures from descriptions are due to learnings and modifications. As an example, some pictures show a 100W power supply with a daisy chain series of connections to the distribution blocks. instead of a 250W supply and a 6 distribution bock header. With the 250W, we didn't want all the 18.2 amps running through the first block in the initial daisy chain design because they were only designed for 16amps. Thus the 6 distribtuion block puts each header in a parallel circuit rather than in series. 
+
+Another change was from plastic tees to metal tees. Regardless of the specific item, the general principles are the same.
 
 ## Parts
 
@@ -28,13 +30,13 @@ Any variations in pictures from descriptions are due to learnings and modificati
 
 ### Platform parts
 
-- 2x plywood 12" x 12"
+- 2x plywood 15" x 15"
 - 16x 12" Cable Ties
 - 10 feet of flexible PEX tube 1/2" ID
 - 5 feet of rigid tube 3/4"
 - 4x 1/2" metal PEX Barb Tee
 - 12x small hose clamps
-- 48 spools
+- 48 spools 
 - 60 spacers
 
 ### Rigging parts
@@ -51,7 +53,7 @@ Any variations in pictures from descriptions are due to learnings and modificati
 
 The 12v LED power supply selected provides power for up to 54 100ft LED strands. Power is wired using at least 12 gauge wire to the small distribution block, and then from there to each of the large distribution blocks.
 
-The male pigtails are wired into the distribution blocks. We covered them in white electrical tape to make them look a little nicer. Because the spool can pull on the power cable, we were very concerned about pulling the pigtails out of the distribution block. The blue retention blocks take the stress of any pulling on the connection to the distribution blocks.
+The male pigtails are wired into the distribution blocks. We covered them in white electrical tape to make them look a little nicer. Because the spool can pull on the power cable, we were very concerned about pulling the pigtails out of the distribution block. The blue retention blocks (3d printed - model for this is linked above) take the stress of any pulling on the connection to the distribution blocks.
 
 ![Electrical Wiring](IMG_20231219_084156.jpg)
 

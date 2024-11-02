@@ -12,7 +12,7 @@ Each strand is wound onto a 3d printed spool. 12 spools are mounted on a 90 degr
 
 The spools have arcs cut out to allow heat to dissipate, as they can get somewhat hot when the lights are wrapped tightly together on the portion of the strand that is not needed.
 
-Any variations in pictures from descriptions are due to learnings and modifications. As an example, some pictures show a 100W power supply with a daisy chain series of connections to the distribution blocks. instead of a 250W supply and a 6 distribution bock header. With the 250W, we didn't want all the 18.2 amps running through the first block in the initial daisy chain design because they were only designed for 16amps. Thus the 6 distribtuion block puts each header in a parallel circuit rather than in series. 
+Any variations in pictures from descriptions are due to learnings and modifications. As an example, some pictures show a 100W power supply with a daisy chain series of connections to the distribution blocks. After our testing, we switched to a 250W supply and a 6 distribution bock header. With the 250W, we didn't want all the 18.2 amps running through the first block in the initial daisy chain design because they were only designed for 16amps. Thus the 6 distribtuion block puts each of the 4 lighting headers in a parallel circuit rather than in series, so each one should only pull 4.6 amps. 
 
 Another change was from plastic tees to metal tees. Regardless of the specific item, the general principles are the same.
 

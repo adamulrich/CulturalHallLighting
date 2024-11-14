@@ -127,3 +127,6 @@ For areas that don't have anchor points, we use nylon wire suspended between wal
 Once you have extended and anchored the correct length, use the notches on the sides of the spools to anchor the wire on the spool so that it won't spin. Connect power to the spool. You may need to unclip the connector from the side of the spool for it to reach. Be sure to not over tension the wire. You want some slack.
 
 One issue that we ran into was accidental jarring of the strands after installation, especially when the lights were turned off and they did not see them. The tension pulling the strand too tight, and causing it to short out at far end when you wrap it around a screw. Loosening the strand to remove the tension fixed the issue. In future installations, we would probably use a [nylon spacer](https://www.amazon.com/Assortment-Electrical-Spacers-Plastic-Receptacle/dp/B0C7CLB513) around the screw to prevent this.
+
+![Installed View 1](IMG_20231216_152945.jpg)
+![Installed View 2](IMG_20231216_153022.jpg)
